@@ -294,12 +294,13 @@ img {
 .team-item {
   width: calc((100% - 24px * 3) / 4);
   background-color: var(--color-white);
+  border-radius: 0px 0px 4px 4px;
 }
 
 .team-img {
 }
 .team-wrapper {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 .team-sub-title {
   margin-bottom: 8px;
