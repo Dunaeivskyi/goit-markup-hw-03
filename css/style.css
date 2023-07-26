@@ -205,6 +205,7 @@ img {
   border: none;
   min-width: 169px;
   height: 56px;
+  border-radius: 4px;
 }
 
 .hero-btn:hover,
@@ -215,7 +216,6 @@ img {
 /* SECTION - 2 */
 
 .benefits {
-  padding-bottom: 0;
 }
 
 .benefits-menu {
@@ -244,6 +244,7 @@ img {
 
 /* SECTION - 3 - */
 .desc-section {
+  padding-top: 0;
 }
 
 .desc-title {
